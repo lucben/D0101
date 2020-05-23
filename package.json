@@ -1,0 +1,22 @@
+{
+  "name": "jp",
+  "version": "1.0.0",
+  "description": "juanpi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucben/D0101.git"
+  },
+  "keywords": [
+    "juanpi"
+  ],
+  "author": "ootarolat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucben/D0101/issues"
+  },
+  "homepage": "https://github.com/lucben/D0101#readme"
+}
